@@ -2,7 +2,7 @@
 
 [![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)](https://www.youtube.com/developerfunnel)
 [![Linkedin Badge](https://img.shields.io/badge/-Shilpa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shilpa-chava-25a2b1225/)](https://www.linkedin.com/in/shilpa-chava-25a2b1225/)
-[![Website Badge](https://img.shields.io/badge/WebSite-Shilpa-green)](https://www.akash)
+[![Website Badge](https://img.shields.io/badge/WebSite-Shilpa-green)](https://www.shilpa)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Shilpa-yellow)](https://stackoverflow.com/users/3687251/shilpa-)
 
 I'm
@@ -15,7 +15,7 @@ The crossover between design and programming has always been of interest to me, 
 <div>
   <h4>🏆 Github Profile Trophy</h4>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=aakashdeveloper&column=7"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=shilpachava&column=7"/>
   </a>
 </div>
 
